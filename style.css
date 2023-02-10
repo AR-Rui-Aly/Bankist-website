@@ -100,7 +100,7 @@ p {
   color: #666;
 }
 
-/* This is BAD for accessibility! Don't do in the real world! */
+/* This is BAD for accessibility */
 button:focus {
   outline: none;
 }
